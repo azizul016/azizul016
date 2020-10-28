@@ -1,4 +1,4 @@
-### Hi there, I'm Azizul Haque -  [Azizul's][website] 👋
+### Hi there, I'm Azizul Haque
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
