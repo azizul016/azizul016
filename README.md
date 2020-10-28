@@ -13,7 +13,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azizul--haque/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/azizul.haque.789) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
 
 ### Hire Me!
-[Resume](https://drive.google.com/file/d/1UM1LqchNlU7pX1zctE5V-wIdVK64Noa_/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1VKWrthpPzPp0mWeYmFv0VNdvBVJ_-_S2/view?usp=sharing)
 <br />
 
 ### Languages and Tools:
