@@ -2,7 +2,9 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently learning [Programming Hero][programming]!
-- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on any interesting project
+- 🤔 I’m looking for help with Job
+- 📫 How to reach me: haqueazizul789@gmail.com
 - 🥅 2020 Goals: Learn React,Vue, Node
 - ⚡ Fun fact: I love to see movie and play cricket 
 
