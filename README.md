@@ -35,18 +35,17 @@
 <br />
 <br />
 
-<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=manik-roy&show_icons=true"/>
+<img width="550" alt="Azizul Haque Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azizul016&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/azizul016)
 
 [programming]: https://www.programming-hero.com/
-[website]: https://manikroy.netlify.app/
-[twitter]: https://manikroy.netlify.app/
-[youtube]:  https://manikroy.netlify.app/
-[instagram]: https://www.instagram.com/manikroy_89/
-[linkedin]: https://www.linkedin.com/in/manik-roy
-[webdevplaylist]: https://manikroy.netlify.app/
-[jsplaylist]: https://manikroy.netlify.app/
-[cssplaylist]: https://manikroy.netlify.app/
-[reactplaylist]: https://manikroy.netlify.app/
+[website]: https://google.com/
+[twitter]: https://twitter.com/azizul__haque
+[youtube]:  https://www.youtube.com/
+[linkedin]: https://www.linkedin.com/in/azizul--haque/
+[webdevplaylist]: https://google.com/
+[jsplaylist]: https://google.com/
+[cssplaylist]: https://google.com/
+[reactplaylist]: https://google.com/
 
