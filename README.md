@@ -1,6 +1,6 @@
 ### Hi there, I'm Azizul Haque
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a JavaScript Lover!
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
